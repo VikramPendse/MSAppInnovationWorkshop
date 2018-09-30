@@ -1,0 +1,3 @@
+Azure Functions HOL - https://bit.ly/2DCOOqh
+
+Azure Container HOL - https://bit.ly/2OVchUA
